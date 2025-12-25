@@ -1,0 +1,42 @@
+# Dependencies
+node_modules/
+vendor/
+venv/
+__pycache__/
+*.pyc
+
+# Build outputs
+dist/
+build/
+*.exe
+main
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Testing
+coverage/
+.coverage
+htmlcov/
+
+# Database
+*.sql.backup
+
+# Temporary
+tmp/
+temp/
+*.tmp
+
